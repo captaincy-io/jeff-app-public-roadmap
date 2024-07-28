@@ -1,0 +1,21 @@
+name: "Report a Bug"
+description: "Report an error, a crash, or something else that seems to be incorrect."
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: input
+    id: application_version
+    attributes:
+      label: Application version
+      description: Please indicate the version of the application.
+      placeholder: "X.Y.Z"
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: Issue description
+      description: Please provide a description of the issue you encountered and the steps needed to reproduce it.
+    validations:
+      required: true
