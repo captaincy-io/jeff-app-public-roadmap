@@ -1,2 +1,4 @@
-# jeff-app-public-roadmap
-The public roadmap of Jeff, an app compagnon designed to keep you in the loop with the latest updates from AWS services. 
+# Jeff public roadmap
+This repository is used as public roadmap of Jeff, an app companion designed to keep you in the loop with the latest updates from AWS services.
+
+
